@@ -22,9 +22,7 @@ __opapp_include(readme.md)
 
 
 [template BSCL 6 12]
-__opapp_include(lib/polymer/index.m4)
-__opapp_include(elements/element-bscl.html)
-__opapp_include(elements/view.html)
+__opapp_include(optinomic_lib/dist/templates/ch.suedhang.apps.bscl_anq.html)
 
 
 [survey]
